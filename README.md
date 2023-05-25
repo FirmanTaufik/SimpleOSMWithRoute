@@ -15,8 +15,8 @@ addMarker("end",end)
 
 Just put latitude and longitude inisde GeoPoint as parameter 👏👏👏
 
-<img src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png" data-canonical-src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png" style="max-width:50%;">
+<img src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png" data-canonical-src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png"  >
 
-<img src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png" data-canonical-src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png" style="max-width:50%;">
+<img src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png" data-canonical-src="https://github.com/FirmanTaufik/SimpleOSMWithRoute/blob/master/Screenshot_20230525_224850.png"  >
 
 God Damnit.. Thanks for my time for wasting to code..😢😢 👌
