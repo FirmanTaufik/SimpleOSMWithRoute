@@ -2,8 +2,7 @@
 OSM or Open Street Map is free source for altenative Google Map Api
 
 # Helper #
-This Repo use json and from this site https://routing.openstreetmap.de/ i would like thanks for helping me
-https://youtu.be/1xrMq5dNI2E
+This Repo use json and from this site https://routing.openstreetmap.de/ i would like thanks for helping me 
 
 # How To Change Or Use #
 
